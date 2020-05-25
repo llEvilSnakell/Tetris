@@ -1,0 +1,10 @@
+D:\Download\Tetriss\Tetriss\bin\Debug\Tetriss.exe.config
+D:\Download\Tetriss\Tetriss\bin\Debug\Tetriss.exe
+D:\Download\Tetriss\Tetriss\bin\Debug\Tetriss.pdb
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.csprojAssemblyReference.cache
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.Form1.resources
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.Properties.Resources.resources
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.csproj.GenerateResource.cache
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.csproj.CoreCompileInputs.cache
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.exe
+D:\Download\Tetriss\Tetriss\obj\Debug\Tetriss.pdb
